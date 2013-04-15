@@ -1,0 +1,2 @@
+C:\Users\ak\Dropbox\_Private\Repos\my-first-demo\GitTestApp\GitTestApp\bin\Debug\GitTestApp.exe.config
+C:\Users\ak\Dropbox\_Private\Repos\my-first-demo\GitTestApp\bin\Debug\GitTestApp.exe.config
